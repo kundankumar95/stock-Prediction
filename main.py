@@ -54,5 +54,5 @@ for i in  forecast_set:
 df['Adj. Close'].plot()
 plt.xlabel('Date')
 plt.ylabel('Price')
-plt.title('Adjusted Close Price')
+plt.title('Market Data')
 plt.show()
